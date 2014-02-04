@@ -1,0 +1,96 @@
+{
+    "folder": "data/",
+    "files": [
+        {
+            "filePath": "data//20131027_202514.jpg",
+            "filename": "20131027_202514.jpg",
+            "fileExtension": "jpg",
+            "fileSize": 0.806228,
+            "metadata": null
+        },
+        {
+            "folder": "data//folder01",
+            "files": [
+                {
+                    "filePath": "data//folder01/29 Track 28.mp3",
+                    "filename": "29 Track 28.mp3",
+                    "fileExtension": "mp3",
+                    "fileSize": 1.31302,
+                    "metadata": null
+                },
+                {
+                    "filePath": "data//folder01/html5_cookbook.pdf",
+                    "filename": "html5_cookbook.pdf",
+                    "fileExtension": "pdf",
+                    "fileSize": 23.125129,
+                    "metadata": null
+                }
+            ]
+        },
+        {
+            "folder": "data//folder02",
+            "files": [
+                {
+                    "filePath": "data//folder02/1265192_576576275711724_322122835_o.jpg",
+                    "filename": "1265192_576576275711724_322122835_o.jpg",
+                    "fileExtension": "jpg",
+                    "fileSize": 0.063294,
+                    "metadata": null
+                },
+                {
+                    "filePath": "data//folder02/1380030_604733189572392_238132976_n.jpg",
+                    "filename": "1380030_604733189572392_238132976_n.jpg",
+                    "fileExtension": "jpg",
+                    "fileSize": 0.071236,
+                    "metadata": null
+                },
+                {
+                    "filePath": "data//folder02/823360_660577700641294_545222208_o.jpg",
+                    "filename": "823360_660577700641294_545222208_o.jpg",
+                    "fileExtension": "jpg",
+                    "fileSize": 0.364812,
+                    "metadata": null
+                },
+                {
+                    "filePath": "data//folder02/Screen Shot 2013-10-03 at 17.49.33.png",
+                    "filename": "Screen Shot 2013-10-03 at 17.49.33.png",
+                    "fileExtension": "png",
+                    "fileSize": 0.482284,
+                    "metadata": null
+                },
+                {
+                    "filePath": "data//folder02/motivational-quotes-39.jpg",
+                    "filename": "motivational-quotes-39.jpg",
+                    "fileExtension": "jpg",
+                    "fileSize": 0.042061,
+                    "metadata": null
+                }
+            ]
+        },
+        {
+            "folder": "data//folder03",
+            "files": [
+                {
+                    "filePath": "data//folder03/new york street.jpg",
+                    "filename": "new york street.jpg",
+                    "fileExtension": "jpg",
+                    "fileSize": 1.012011,
+                    "metadata": null
+                },
+                {
+                    "folder": "data//folder03/subFolder",
+                    "files": [
+                        {
+                            "filePath": "data//folder03/subFolder/Screen Shot 2013-11-05 at 10.52.30.png",
+                            "filename": "Screen Shot 2013-11-05 at 10.52.30.png",
+                            "fileExtension": "png",
+                            "fileSize": 0.707366,
+                            "metadata": null
+                        },
+                        null
+                    ]
+                }
+            ]
+        }
+    ]
+}
